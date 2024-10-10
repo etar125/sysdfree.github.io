@@ -1,2 +1,2 @@
 # sysdfree
-Это сайт с systemd-free Linux дистрибутивами, BSD и другими системами.
+Это сайт с systemd-free Linux дистрибутивами и BSD.
